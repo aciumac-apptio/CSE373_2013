@@ -1,0 +1,33 @@
+Rick,Shane,Daryl,Carl,Lori,Andrea,Michonne,Carol,T-dog,Glenn,Hershel,Maggie,Dale,Tyreese,Axel,Axel,Dale,Rick
+Amy,Jim,Sophia,Otis,Otis,Otis
+
+# day 1
+infect,Jim,Dale
+infect,Amy,Andrea
+
+# day 2
+infect,Sophia,Carol
+infect,Sophia,T-dog
+infect,Otis,Shane
+
+# day 3
+infect,Sophia,Carl
+infect,Shane,Glenn
+
+# day 4
+infect,Carol,Maggie
+
+# day 5
+infect,Sophia,Tyreese
+infect,Carl,Lori
+infect,Carl,Michonne
+
+# day 6
+infect,Sophia,Rick
+infect,Carl,Axel
+
+# day 7
+
+# day 8
+
+# end of simulation

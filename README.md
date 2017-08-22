@@ -1,4 +1,4 @@
-# CSE373: Winter 2013 (by Marty Stepp @ University Of Washington
+# CSE 373: Winter 2013 (by Marty Stepp @ University Of Washington
 **Course Link:** https://courses.cs.washington.edu/courses/cse373/13wi/index.shtml
 
 * **HW1: Stable Marriage** (Gale-Shapley Algorithm for Stable Marriages)

@@ -1,0 +1,27 @@
+Mikey,Dana,Staci,Janette,Jake,Sara,Ping,April,Conor,Mikey,Mikey,Staci,Conor,Conor,Sara,Ping,Ping,Jake
+Crystal,Megan,Raven,Elise,Crystal,Crystal,Crystal,Raven
+
+# day 1
+infect,Megan,Ping
+infect,Crystal,Janette
+
+# day 2
+infect,Megan,April
+infect,Raven,Dana
+
+# day 3
+infect,Raven,Jake
+
+# day 4
+infect,Dana,Mikey
+
+# day 5
+
+# day 6
+infect,Dana,Sara
+
+# day 7
+
+# day 8
+
+# end of simulation

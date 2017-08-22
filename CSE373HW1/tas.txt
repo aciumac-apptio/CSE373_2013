@@ -1,0 +1,24 @@
+# A silly sample input file made up of various TAs' names.
+Jake:M:Sara,Staci,Dana,Molly,Janette,April,Riley,Zorah,Victoria,Dian,Allyson
+Mikey:M:Dian,Victoria,Janette,Staci,April,Zorah,Molly,Riley,Sara,Allyson,Dana
+Conor:M:Molly,Janette,Zorah,Dana,Sara,April,Staci,Allyson,Riley,Dian,Victoria
+Ping:M:Molly,Victoria,Allyson,Riley,Sara,Staci,Zorah,April,Dian,Dana,Janette
+Dane:M:Dana,Dian,Janette,April,Molly,Staci,Victoria,Sara,Allyson,Riley,Zorah
+Chris:M:Janette,Zorah,Allyson,Molly,Dana,Dian,Victoria,April,Staci,Riley,Sara
+Zack:M:Janette,April,Zorah,Riley,Allyson,Staci,Dana,Sara,Dian,Victoria,Molly
+Andrew:M:Victoria,Dian,April,Janette,Staci,Dana,Allyson,Molly,Riley,Zorah,Sara
+Brian:M:Sara,Victoria,Allyson,Dana,April,Staci,Zorah,Riley,Dian,Molly,Janette
+Kyle:M:Allyson,Staci,Janette,Riley,Molly,Dana,Dian,Sara,April,Victoria,Zorah
+Clint:M:Dana,Riley,Sara,Zorah,Dian,Janette,Victoria,Allyson,Staci,Molly,April
+
+Staci:F:Mikey,Conor,Dane,Jake,Brian,Andrew,Ping,Clint,Zack,Chris,Kyle
+Sara:F:Kyle,Zack,Andrew,Dane,Brian,Clint,Ping,Conor,Jake,Chris,Mikey
+Janette:F:Zack,Clint,Andrew,Mikey,Jake,Ping,Conor,Kyle,Chris,Dane,Brian
+Dana:F:Dane,Andrew,Jake,Ping,Chris,Conor,Zack,Clint,Mikey,Brian,Kyle
+April:F:Kyle,Conor,Zack,Mikey,Clint,Ping,Chris,Andrew,Jake,Brian,Dane
+Allyson:F:Chris,Ping,Conor,Jake,Kyle,Mikey,Clint,Dane,Andrew,Brian,Zack
+Riley:F:Ping,Zack,Conor,Jake,Clint,Mikey,Chris,Andrew,Dane,Kyle,Brian
+Dian:F:Mikey,Dane,Zack,Ping,Conor,Kyle,Andrew,Jake,Chris,Brian,Clint
+Victoria:F:Jake,Andrew,Ping,Dane,Brian,Kyle,Clint,Conor,Chris,Zack,Mikey
+Molly:F:Dane,Mikey,Conor,Jake,Ping,Clint,Brian,Kyle,Zack,Andrew,Chris
+Zorah:F:Brian,Jake,Kyle,Zack,Mikey,Andrew,Chris,Conor,Dane,Clint,Ping

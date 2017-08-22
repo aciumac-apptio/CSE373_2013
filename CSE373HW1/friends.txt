@@ -1,0 +1,10 @@
+# Friends characters.
+# Finally we can settle who will end up with whom.
+
+Chandler:M:Monica,Rachel,Phoebe
+Joey:M:Rachel,Phoebe,Monica
+Ross:M:Rachel,Phoebe,Monica
+
+Monica:F:Chandler,Joey,Ross
+Phoebe:F:Joey,Ross,Chandler
+Rachel:F:Ross,Joey,Chandler

@@ -1,0 +1,11 @@
+# Seinfeld and Sex and the City characters.
+
+George:M:Charlotte,Carrie,Miranda,Samantha
+Jerry:M:Miranda,Samantha,Carrie,Charlotte
+Kramer:M:Samantha,Charlotte,Carrie,Miranda
+Newman:M:Samantha,Charlotte,Miranda,Carrie
+
+Carrie:F:Newman,Jerry,Kramer,George
+Charlotte:F:Jerry,George,Kramer,Newman
+Miranda:F:Newman,Jerry,Kramer,George
+Samantha:F:Jerry,Kramer,George,Newman

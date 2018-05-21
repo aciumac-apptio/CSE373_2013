@@ -4,7 +4,7 @@
 * **HW1: Stable Marriage** (Gale-Shapley Algorithm for Stable Marriages)
 * **HW2: Star Chart** (using Guava library)
 * **HW3: The Amazing Deque**
-  * **Part 1:** Implement A&ast algorithm as described using <code>Deque</code> provided in java.util library
+  * **Part 1:** Implement A\* algorithm as described using <code>Deque</code> provided in java.util library
   * **Part 2:** Implement Deque using _circular buffer_ array
 * **HW4: HashMaps vs. Zombies**
   * **Part 1:** Code <code>hashCode()</code> and <code>equals()</code> method for <code>HvZPlayer</code> class

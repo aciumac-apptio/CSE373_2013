@@ -12,7 +12,7 @@
 * **HW5: The Even-More-Amazing Heap**
   * **Part 1:** Implement A&ast algorithm as described using <code>PriorityQueue</code> and write an inner <code>Comparator</code> class
   * **Part 2** Implement a <code>PriorityQueue</code> using heap structure.
-* **HW6: The Rotating Dead ** Implement the same game from HW4 in using tree-based collection and also implement AVL tree extending BST class
+* **HW6: The Rotating Dead** Implement the same game from HW4 in using tree-based collection and also implement AVL tree extending BST class
 * **HW7: Sort Detective** Implement quicksort algorithm for <code>Strings</code> with a median-of-3 pivot and insertion sort on small subsections to improve performance
 * **HW8: Six Degrees of Kevin Bacon** Implement depth-first search, breadth-first search and Dijkstra's algorithm on a given graph
   
